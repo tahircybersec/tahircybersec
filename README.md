@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tahir 👋
 
-<!--
-**tahircybersec/tahircybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student & Ethical Hacking Learner
 
-Here are some ideas to get you started:
+I am passionate about cybersecurity, penetration testing, and web application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- WordPress Security
+- Git & GitHub
+
+### Currently Learning
+- Web Application Security
+- Network Security
+- Vulnerability Assessment
+- Ethical Hacking
+
+### Labs Completed
+- Nmap Scanning Labs
+- Wireshark Packet Analysis
+- Burp Suite Basics
+- WordPress Security Testing
+
+### Connect With Me
+GitHub: https://github.com/tahircybersec
+
+---
+⭐ Learning cybersecurity one step at a time.
