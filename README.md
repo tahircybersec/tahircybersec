@@ -1,8 +1,8 @@
 # Hi, I'm Tahir 👋
 
-## Cybersecurity Student & Ethical Hacking Learner
+## Cybersecurity | Ethical Hacking | Web Application Security
 
-I am passionate about cybersecurity, penetration testing, and web application security.
+I am passionate about cybersecurity, penetration testing, and web application security. This GitHub profile documents my learning journey, labs, and security-related projects.
 
 ### Skills
 - Kali Linux
@@ -18,14 +18,14 @@ I am passionate about cybersecurity, penetration testing, and web application se
 - Vulnerability Assessment
 - Ethical Hacking
 
-### Labs Completed
-- Nmap Scanning Labs
+### Labs & Projects
+- Nmap Network Scanning
 - Wireshark Packet Analysis
-- Burp Suite Basics
-- WordPress Security Testing
+- Burp Suite Web Testing
+- WordPress Security Assessment
 
 ### Connect With Me
-GitHub: https://github.com/tahircybersec
+GitHub: @tahircybersec
 
 ---
 ⭐ Learning cybersecurity one step at a time.
